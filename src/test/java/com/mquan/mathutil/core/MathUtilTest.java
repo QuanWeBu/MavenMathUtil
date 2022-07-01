@@ -42,7 +42,7 @@ public class MathUtilTest {
     public void testGetFactorialGivenWringArgThrowException() {
         //xài biểu thức Lambda
         //hàm nhận tham số thứ 2 là 1 cái object/có code implement cái
-        //functionl interface tên là Executable - có 1 hàm d nuyhất ko code
+        //functional interface tên là Executable - có 1 hàm duy nhất ko code
         //têm là execte()
         //chơi chậm
 //        Executable exObject = new Executable() {
